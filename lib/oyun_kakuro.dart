@@ -35,7 +35,7 @@ final kakuroConfig = GameConfig(
       'Kakuro',
       'Kakuro',
       'Kakuro',
-      'カックロ',
+      'たし算クロス',
       '가쿠로',
       '数和',
       'काकुरो',
